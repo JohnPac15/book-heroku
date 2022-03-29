@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnPac15/Book_store.git"
+    "url": "git+https://github.com/JohnPac15/book-heroku"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/JohnPac15/Book_store#readme",
+  "homepage": "https://github.com/JohnPac15/book-heroku#readme",
   "devDependencies": {
     "concurrently": "^5.3.0"
   }
